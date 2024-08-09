@@ -5,5 +5,10 @@
     padding: 0px;
     box-sizing: border-box;
 
-};
+}
+
+.conteiner{
+    width: 1200px;
+    border: solid red;
+}
    
